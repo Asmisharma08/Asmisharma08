@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Asmi Sharma</h1>
 <h3 align="center">Intuitive Problem Solving and Design Thinking is not something anyone can just learn. I am born with it.</h3>
 
-<img src="https://i.redd.it/a8dev3kcr3id1.gif" align="right" alt="Coding" width="400" height="200">
+<img src="https://i.redd.it/a8dev3kcr3id1.gif" align="right" alt="Coding" width="390" height="200">
 
 - 🔭 I’m currently a **2nd year CSE student at SRM University**
 
